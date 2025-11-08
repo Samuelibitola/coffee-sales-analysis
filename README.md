@@ -85,6 +85,8 @@ Build an interactive Excel dashboard that visualizes key insights for management
 - coffee_sales_dataset.csv	Raw dataset used for analysis
 - Coffee_Sales_Analysis.xlsx	Cleaned data, pivot tables, and final dashboard
 - Dashboard_Screenshot.png	Screenshot preview of the Excel dashboard
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/663c2e2c-8c55-4f6e-abc2-79b83172aa5b" />
+
 
 ## How to View 🔗
 
