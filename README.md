@@ -4,23 +4,23 @@
 By: Samuel Ibitola – Data Analyst
 
 ## Table of Contents 📚
-1. [Project Overview](#project-overview)
-2. [Objectives](#objectives)
-3. [Key Metrics](#key-metrics)
-4. [Visual Insights](#visual-insights)
-5. [Tools Used](#tools-used)
-6. [Skills Demonstrated](#skills-demonstrated)
-7. [Key Takeaways](#key-takeaways)
-8. [Files in this Repository](#files-in-this-repository)
-9. [How to View](#how-to-view)
-10. [About the Author](#about-the-author)
+1. [Project Overview](#project-overview-🗂️)
+2. [Objectives](#objectives-🎯)
+3. [Key Metrics](#key-metrics-🧮)
+4. [Visual Insights](#visual-insights-📈)
+5. [Tools Used](#tools-used-⚙️)
+6. [Skills Demonstrated](#skills-demonstrated-🧠)
+7. [Key Takeaways](#key-takeaways-🪄)
+8. [Files in this Repository](#files-in-this-repository-📎)
+9. [How to View](#how-to-view-🔗)
+10. [About the Author](#about-the-author-👨‍💻)
 
  ## Project Overview 🗂️
 
 This project analyzes coffee sales data to identify revenue patterns, customer performance, and sales trends.
 It was built entirely in Microsoft Excel using PivotTables, charts, and KPI metrics.
 
- ## Objectives🎯
+ ## Objectives 🎯
 
 Clean and prepare raw sales data.
 
@@ -84,7 +84,8 @@ Build an interactive Excel dashboard that visualizes key insights for management
 - coffee_sales_dataset.csv	Raw dataset used for analysis
 - Coffee_Sales_Analysis.xlsx	Cleaned data, pivot tables, and final dashboard
 - Dashboard_Screenshot.png	Screenshot preview of the Excel dashboard
-🔗 How to View
+
+## How to View 🔗
 
 Download the .xlsx file from this repository.
 
