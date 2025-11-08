@@ -1,14 +1,14 @@
 # coffee-sales-analysis
-📊 Coffee Sales Analysis Dashboard
+ Coffee Sales Analysis Dashboard 📊
 
 By: Samuel Ibitola – Data Analyst
 
-🗂️ Project Overview
+ ## Project Overview 🗂️
 
 This project analyzes coffee sales data to identify revenue patterns, customer performance, and sales trends.
 It was built entirely in Microsoft Excel using PivotTables, charts, and KPI metrics.
 
-🎯 Objectives
+ ## Objectives🎯
 
 Clean and prepare raw sales data.
 
@@ -16,61 +16,62 @@ Calculate core performance metrics such as revenue, total purchase value, and av
 
 Build an interactive Excel dashboard that visualizes key insights for management decisions.
 
-🧮 Key Metrics
-Metric	Description	Result
-Total Revenue	Overall sales generated from all transactions	$10,429.10
-Average Quantity Sold per Order	Total quantity ÷ number of orders	4.98 units
-Top Customer	Customer_5 with the highest purchase value	$316.22
-Best Performing Month	April	$1,108.28
-Top Country by Revenue	Australia	$1,846.98
-Top Sales Channel	Online	$5,482.61
-📈 Visual Insights
+## Key Metrics 🧮
+### Metric	Description	Result
+- Total Revenue	Overall sales generated from all transactions	$10,429.10
+- Average Quantity Sold per Order	Total quantity ÷ number of orders	4.98 units
+- Top Customer	Customer_5 with the highest purchase value	$316.22
+- Best Performing Month	April	$1,108.28
+- Top Country by Revenue	Australia	$1,846.98
+- Top Sales Channel	Online	$5,482.61
 
-📅 Month with Highest Revenue: April recorded the highest revenue, with gradual decline afterward — possibly due to seasonal changes.
+## Visual Insights 📈
 
-👥 Top 3 Customers: Primarily purchase through the online channel, indicating strong digital sales performance.
+- Month with Highest Revenue 📅: April recorded the highest revenue, with gradual decline afterward — possibly due to seasonal changes.
 
-🌍 Country Comparison: Australia leads in total revenue, followed by the UK and USA.
+- Top 3 Customers 👥: Primarily purchase through the online channel, indicating strong digital sales performance.
 
-💳 Sales Channel Analysis: Online sales outperform retail slightly in revenue share.
+- Country Comparison 🌍: Australia leads in total revenue, followed by the UK and USA.
 
-⚙️ Tools Used
+- Sales Channel Analysis 💳: Online sales outperform retail slightly in revenue share.
 
-Microsoft Excel
+ ## Tools Used ⚙️
 
-PivotTables
+- Microsoft Excel
 
-Charts and slicers
+- PivotTables
 
-Data cleaning (handling blanks and missing values)
+- Charts and slicers
 
-KPI metrics (SUM, COUNT, AVERAGE formulas)
+- Data cleaning (handling blanks and missing values)
 
-Data Visualization and Dashboard Design
+- KPI metrics (SUM, COUNT, AVERAGE formulas)
 
-🧠 Skills Demonstrated
+- Data Visualization and Dashboard Design
 
-Data Cleaning & Preparation
+## Skills Demonstrated 🧠
 
-Descriptive Analytics
+- Data Cleaning & Preparation
 
-Dashboard Design
+- Descriptive Analytics
 
-Business Insights & Storytelling
+- Dashboard Design
 
-🪄 Key Takeaways
+- Business Insights & Storytelling
 
-Excel remains a powerful tool for quick business insights.
+## Key Takeaways 🪄
 
-Online sales channels drive more value among top customers.
+- Excel remains a powerful tool for quick business insights.
 
-Simple dashboards can communicate insights effectively to stakeholders.
+- Online sales channels drive more value among top customers.
 
-📎 Files in this Repository
-File Name	Description
-coffee_sales_dataset.csv	Raw dataset used for analysis
-Coffee_Sales_Analysis.xlsx	Cleaned data, pivot tables, and final dashboard
-Dashboard_Screenshot.png	Screenshot preview of the Excel dashboard
+- Simple dashboards can communicate insights effectively to stakeholders.
+
+ ## Files in this Repository 📎
+### File Name	Description
+- coffee_sales_dataset.csv	Raw dataset used for analysis
+- Coffee_Sales_Analysis.xlsx	Cleaned data, pivot tables, and final dashboard
+- Dashboard_Screenshot.png	Screenshot preview of the Excel dashboard
 🔗 How to View
 
 Download the .xlsx file from this repository.
@@ -79,10 +80,10 @@ Open in Microsoft Excel.
 
 View or interact with the Dashboard sheet for KPIs and charts.
 
-👨‍💻 About the Author
+ ### About the Author 👨‍💻
 
-Samuel Ibitola
-Aspiring Data Analyst | Excel • SQL • Power BI • Python
+**Samuel Ibitola
+Data Analyst | Excel • SQL • Power BI • Python • Tableau • R Programming
 📍 Nigeria
-📧 ibitolasamuel2@gmail.com
-An Excel-based data analysis project that explores coffee sales performance, revenue trends, and customer insights using PivotTables, charts, and KPI metrics.
+📧 _ibitolasamuel2@gmail.com_
+An Excel-based data analysis project that explores coffee sales performance, revenue trends, and customer insights using PivotTables, charts, and KPI metrics.**
