@@ -3,6 +3,18 @@
 
 By: Samuel Ibitola – Data Analyst
 
+## Table of Contents 📚
+1. [Project Overview](#-project-overview)
+2. [Objectives](#-objectives)
+3. [Key Metrics](#-key-metrics)
+4. [Visual Insights](#-visual-insights)
+5. [Tools Used](#-tools-used)
+6. [Skills Demonstrated](#-skills-demonstrated)
+7. [Key Takeaways](#-key-takeaways)
+8. [Files in this Repository](#-files-in-this-repository)
+9. [How to View](#-how-to-view)
+10. [About the Author](#-about-the-author)
+
  ## Project Overview 🗂️
 
 This project analyzes coffee sales data to identify revenue patterns, customer performance, and sales trends.
